@@ -20,7 +20,7 @@ public class MainBank2 {
 
 		// main menu and menu1 text
 		System.out.println("Welcome to the Bank Program");
-		System.out.println("Type 1 for inputs (add and remove), 2 for operations (deposit etc), 3 to exist");
+		System.out.println("Type 1 for inputs (add and remove), 2 for operations (deposit etc), 3 to exit");
 		Integer number = scan.nextInt();
 
 		// a while (true) [loop1] so it checks twice for the number typed, if there
